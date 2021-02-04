@@ -1,0 +1,2 @@
+# BreastCancerDetection
+Breast Cancer detection aims to classify benign and malignant tumors with best possible accuracy.The data set used  is Breast cancer (diagnostic)Wisconsin data set.In this project we used Forward selection and Backward elimination techniques from Feature Selection and the Classifier used is Random Forest classifier.After comparing accuracy from each one of them ,Forward feature Selection gave more accuracy over Backward elimination
